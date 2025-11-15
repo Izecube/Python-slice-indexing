@@ -1,2 +1,2 @@
 # Python-slice-indexing
-slice indexing
+Different examples of slice indexing
